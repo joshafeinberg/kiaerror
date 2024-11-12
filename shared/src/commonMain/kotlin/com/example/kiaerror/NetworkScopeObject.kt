@@ -1,5 +1,5 @@
 package com.example.kiaerror
 
-class NetworkScopeObject {
+class NetworkScopeObject(private val string: String) {
 
 }
